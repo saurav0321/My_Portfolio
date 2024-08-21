@@ -1,4 +1,3 @@
-![logo](https://github.com/saurav0321/Saurav0321/blob/main/Lets%20conne.png)
 <h1 align="center">Saurav Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -10,11 +9,11 @@
 
 - 💻 I am an AIML Enthusiast. Recently, I made a project: **Human Facial Expression Recognition**
 
-- 📫 How to reach me **arghyabhattacharjee876@gmail.com**
+- 📫 How to reach me **sk1653848@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arghya-bhattacharjee-557856257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya bhattacharjee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurav-kumar-3959841a3utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya bhattacharjee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/ifMqBXeqLqJxUkEF/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arghya bhattacharjee" height="30" width="40" /></a>
 <a href="https://instagram.com/arghya.bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arghya.bhattacharjee" height="30" width="40" /></a>
 </p>
